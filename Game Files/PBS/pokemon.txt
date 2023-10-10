@@ -3604,7 +3604,7 @@ Generation = 1
 #-------------------------------
 [PORYGON]
 Name = Porygon
-Types = NORMAL
+Types = ARTIFICIAL
 BaseStats = 65,60,70,40,85,75
 GenderRatio = Genderless
 GrowthRate = Medium
@@ -6124,7 +6124,7 @@ Generation = 2
 #-------------------------------
 [PORYGON2]
 Name = Porygon2
-Types = NORMAL
+Types = ARTIFICIAL
 BaseStats = 85,80,90,60,105,95
 GenderRatio = Genderless
 GrowthRate = Medium
@@ -12404,7 +12404,7 @@ Generation = 4
 #-------------------------------
 [PORYGONZ]
 Name = Porygon-Z
-Types = NORMAL
+Types = ARTIFICIAL
 BaseStats = 85,80,70,90,135,75
 GenderRatio = Genderless
 GrowthRate = Medium
