@@ -1,40 +1,174 @@
 Pokemon Requiem Routes
-Route 1 (I - II) Plaines vers montagnes = types Vol Normal Roche
+Route 1 (I - II) Plaines vers montagnes
+Hautes Herbes: (lv. 3-4)
+- Bidoof      30%
+- Pidove      30%
+- Roggenrola  20%
+- Buneary     10%
 
-Route 2 (II - III) Fleurs UwU = types Plante 
+Route 2 (II - III) Fleurs UwU
+Hautes Herbes: (lv. 7-8)
+- Petilil    30%
+- Kricketot  30%
+- Foongus    20%
+- Shroomish  10%
+- Clefairy 
 
-Route 3 (III - IV) Flanc de Montagne  Falaise Bord de Mer = types Roche Insecte
+Route 3 (III - IV) Flanc de Montagne Falaise Bord de Mer
+Hautes Herbes: (lv. 12-13)
+- Wingull    30%
+- Drilbur    20%
+- Roggenrola 20%
+- Dunsparce  20%
+- Rhyhorn    10%
+- Machop
 
 Route 4 (IV - V) Foret (Temp) = Grass Insecte
+Hautes Herbes: (lv. 19-21)
+- Paras      30%
+- Foongus    20%
+- Scyther    20%
+- Shroomish  20%
+- Sunkern    10%
+- Ralts
+- Venipede
 
 Route 5 (V - VI) Ruines Marecages = undead holy tmtc
+Hautes Herbes:
+- ...
+- Wooper      20%
+- Shedinja    10%
+- Vulpix      10%
 
-Route 6 (VI - VII) Klairier + Pont
+Route 6 (VI - VII) acces klairier + Pont
+Hautes Herbes:
+- Whismur     30%
+- Sentret     30%
+- Mareep      20%
+- Tauros      10%
+- Growlithe
 
-Route 7 (V - VIII) Piste cyclable (dresseurs)
+Route 8.5 (Sur terre)
+- Meditite
+- Gothorita
+- Misdreavus
+- Zorua        1%
 
-Route 8 (VII - IX) Swim = eau 
-
-Route 9 (IX - X) bato dresseurs event
-
-Route 10 (X - XI) bato dresseurs event
+Route 8 (VII - IX) Swim = eau
+- Poliwag
+- Chinchou
+- Buizel
+- Horsea
+- Carvanha
 
 Route 11 (XI - XII) sardaigne c giga sec = feu tkt
+- Elgyem
+- Tranquill
+- Nidoran
+- Vulpix
+- Slugma
+- Gligar
 
-Route 12 (VII - XIV) swim  pontons
+Route 12 (VII - XIV) swim pontons
+- Poliwag
+- Chinchou
+- Buizel
+- Horsea
+- Carvanha
+- Corphish
 
 Route 13 (XIV - XIII) desert plage  sable  tkt = solfeu
+- Trapinch
+- Sandile
+- Gastrodon
+- Maractus
+- Drilbur
+- Wooper
+- Skorupi
 
 Route 14 (XIII - II) Flanc de montagne denivele = type vol roche sol
+- Swablu
+- Grindur
+
 
 Route Victoire (XV - XVIII) cave + swim + plongee
+- Metang
+- Roserade
+( - Carracosta ? )
+- Mienshao
+-	Deino
 
-Mt.  (Sommet - Cave 2 - Cave 3) Cave profonde
+Mt. ??? (Sommet - Cave 2 - Cave 3) Cave profonde
+- Piloswine 
+- Dewgong
+- Sealeo
+- Snorunt
+- Golett
+- Draco
 
 Sommet (Mt. ) Enneige = ice
+- Sneasel 
+- Snover
+- Momartik
+- Bronzong
+- Shelgon
+- Skarmory
+- (Solaroc / Seleroc)
 
 Cave 1 (IV - Mt. ) cave sombre = spectre etc
+Partout (lv. 17-19)
+- Ghastly    40%
+- Litwick    30%
+- Zubat      20%
+- Banette
 
 Cave 2 (Route 5 - Route 6 - Mt. ) cave splish splash
+- Lokhlass (Fixe)
+- Zubat
+- Boldore
+- Ramoloss
+- Gyarados
+- Tynamo
+- Barpau (peche)
+- Mawile
 
 Cave 3 (XIII - Mt. ) cave haute
+- Golbat
+- Boldore
+- Rhydon
+- Griknot    1%
+- Larvitar
+- Lairon
+- Sableye
+
+Foret X (Route 6): Klairier
+- Joltik      30%
+- Tranquill   30%
+- Elgyem      20%
+- Sunflora    10%
+- Lilligant   10%
+- Abra
+- Shinx
+
+Desert Enfoui:
+- Scalpion
+- Virbanif
+- Cofagrigus
+- Darumaka
+
+- Zone Leveinard
+
+III:
+- Lotad
+
+V:
+- Makuhita
+- Riolu
+
+VII:
+- Scraggy 
+- Porygon
+- Vanillite
+- ...
+
+https://leekduck.com/shiny/?nickname=%3F&show=all&lang=fr&dex=29-30-31-32-33-34-173-35-36-37-38-41-42-169-46-47-58-59-60-61-62-186-63-64-65-66-67-68-79-80-199-81-82-462-86-87-88-89-92-93-94-109-110-111-112-464-440-113-242-116-117-230-123-212-128-129-130-131-133-134-135-136-196-197-470-471-137-233-474-147-148-149-161-162-170-171-175-176-468-179-180-181-191-192-194-195-200-429-206-207-472-215-461-218-219-220-221-473-227-246-247-248-270-271-272-278-279-280-281-282-475-285-286-292-293-294-295-296-297-302-303-304-305-306-307-308-406-315-407-318-319-328-329-330-333-334-337-338-341-342-349-350-353-354-361-362-478-363-364-365-371-372-373-374-375-376-396-397-398-399-400-401-402-403-404-405-418-419-422-423-427_12-428_12-436-437-442-443-444-445-447-448-451-452-459-460-519-520-521-524-525-526-529-530-543-544-545-548-549-554-555_11-559-560-562-563-564-565-568-569-590-591-592-593-595-596-597-598-599-600-601-605-606-607-608-609-622-623-624-625-633-634-635&own=48-49-90-91-298-183-184-198-430-201_11-360-202_01-213-355-356-477-359-425-426-449_01-450_01
